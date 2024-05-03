@@ -1,0 +1,10 @@
+__pycache__/
+*.py[rfcod]
+.idea
+
+venv/
+.env
+
+.coverage
+*.py,cover
+.cache/
